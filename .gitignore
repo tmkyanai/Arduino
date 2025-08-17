@@ -1,0 +1,10 @@
+# VS Code
+.vscode/*.log
+.vscode/ipch
+# Build artifacts (if using Arduino CLI or temp files)
+*.hex
+*.elf
+*.bin
+# OS cruft
+.DS_Store
+Thumbs.db
